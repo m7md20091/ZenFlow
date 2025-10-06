@@ -1,94 +1,42 @@
 ZENFLOW WEBSITE SITEMAP
 ========================
 
-Homepage (index.html)
-├── Navigation Menu
-│   ├── Home
-│   ├── Services
-│   ├── Meditation Library
-│   ├── About Us
-│   ├── Pricing
-│   └── Contact
-│
+Homepage 
 ├── Hero Section
-│   ├── Main Headline
-│   ├── Subheading
-│   └── CTA Button
-│
 ├── Features Section
-│   ├── Guided Meditations
-│   ├── Sleep Stories
-│   └── Breathing Exercises
-│
-├── Testimonials
-└── Footer
+├── Statistics Section
+├── Testimonials Section
+└── Call-to-Action Section
 
-Services Page (services.html)
-├── Navigation Menu
+Services Page 
 ├── Page Header
 ├── Services Grid
-│   ├── Guided Meditation Sessions
-│   ├── Sleep & Relaxation
-│   ├── Stress Management
-│   ├── Mindfulness Training
-│   ├── Corporate Wellness
-│   └── Personal Coaching
-├── Benefits Section
-└── Footer
+└── Benefits Section
 
-Meditation Library (library.html)
-├── Navigation Menu
+Meditation Library 
 ├── Page Header
 ├── Category Filters
-│   ├── Beginner
-│   ├── Intermediate
-│   ├── Advanced
-│   ├── Sleep
-│   └── Stress Relief
-├── Meditation Cards Grid
-│   ├── Card 1: Morning Meditation
-│   ├── Card 2: Body Scan
-│   ├── Card 3: Loving Kindness
-│   ├── Card 4: Sleep Story
-│   ├── Card 5: Breathing Exercise
-│   └── Card 6: Walking Meditation
-└── Footer
+└── Meditation Cards Grid
 
-About Us (about.html)
-├── Navigation Menu
+About Us 
 ├── Page Header
 ├── Mission Statement
 ├── Team Section
-│   ├── Founder Bio
-│   ├── Meditation Instructors
-│   └── Wellness Experts
 ├── Our Story Timeline
-└── Footer
+└── Values Section
 
-Pricing (pricing.html)
-├── Navigation Menu
+Pricing 
 ├── Page Header
 ├── Pricing Plans
-│   ├── Free Plan
-│   ├── Premium Plan
-│   └── Corporate Plan
 ├── Features Comparison
-└── Footer
+└── FAQ Section
 
-Contact (contact.html)
-├── Navigation Menu
+Contact 
 ├── Page Header
 ├── Contact Information
-│   ├── Email
-│   ├── Phone
-│   └── Address
 ├── Contact Form
-│   ├── Name Field
-│   ├── Email Field
-│   ├── Subject Field
-│   └── Message Field
-├── Social Media Links
-└── Footer
+├── Social Media Section
+└── FAQ Section
 
 TECHNICAL STRUCTURE:
 - All pages share common navigation and footer

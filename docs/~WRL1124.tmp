@@ -2,18 +2,17 @@ ZENFLOW WEBSITE PROJECT DOCUMENTATION
 =====================================
 
 Student Information:
-- Name: Mohammad Hamed Alharbi
-- ID: 2240738
-- Section: CS1
+- Name: [Your Name]
+- ID: [Your Student ID]
+- Section: [Your Section]
+- Date: October 5, 2025
 
 PROJECT OVERVIEW
 ================
 
 Website Name: ZenFlow
 Domain: Digital Wellness & Meditation Platform
-Target Audience: Busy professionals, wellness enthusiasts, and individuals seeking mental health 
-support
-
+Target Audience: Busy professionals, wellness enthusiasts, and individuals seeking mental health support
 
 1. IDEA DEVELOPMENT
 ==================
@@ -31,7 +30,6 @@ ZenFlow is a premium digital wellness platform that offers comprehensive meditat
 - Personal coaching services
 - Flexible scheduling and on-demand access
 
-
 Benefits of the Provided Solution:
 1. Accessibility: 24/7 access to wellness resources from any device
 2. Personalization: Tailored meditation experiences based on individual needs and skill levels
@@ -42,32 +40,22 @@ Benefits of the Provided Solution:
 7. Professional Guidance: Expert instructors and wellness professionals
 8. Flexibility: Sessions ranging from 3 minutes to 60 minutes to fit any schedule
 
-
-
-
-
 2. WEBSITE STRUCTURE
 ===================
 
 The ZenFlow website consists of 6 main pages:
-1. Homepage – The main landing page introducing visitors to ZenFlow through the Hero Section, Features Section, Statistics Section, Testimonials Section, and a Call-to-Action Section.
 
-2. Services - Provides a detailed overview of all wellness services offered, featuring a Page Header, a comprehensive Services Grid, and a Benefits Section highlighting key advantages.
-
-3. Meditation Library - A browseable collection of meditation sessions, organized through a Page Header, Category Filters for easy navigation, and a Meditation Cards Grid displaying available sessions.
-
-4. About Us - Shares the company’s mission, team, and story through a Page Header, Mission Statement, Team Section, Our Story Timeline, and Core Values Section.
-
-5. Pricing - Presents ZenFlow’s subscription plans and pricing details, including a Page Header, Pricing Plans, Features Comparison, and an FAQ Section to address common inquiries.
-
-
-6. Contact - Offers multiple ways to connect with ZenFlow, including a Page Header, Contact Information, Contact Form, Social Media Section, and an FAQ Section for user support.
-
+1. Homepage (index.html) - Landing page with hero section, features, and testimonials
+2. Services (services.html) - Detailed overview of all wellness services offered
+3. Meditation Library (library.html) - Browseable collection of meditation sessions
+4. About Us (about.html) - Company mission, team, and story
+5. Pricing (pricing.html) - Subscription plans and pricing information
+6. Contact (contact.html) - Contact information and inquiry form
 
 3. SITE MAP
 ==========
-The sitemap is structured hierarchically, beginning with the Homepage that introduces visitors through key sections such as the Hero, Features, Statistics, Testimonials, and Call-to-Action. From there, users can navigate to the Services Page, which highlights offerings through a Page Header, a detailed Services Grid, and a Benefits Section. The Meditation Library provides categorized access to meditation content through its Page Header, Category Filters, and Meditation Cards Grid. The About Us page focuses on company identity, featuring a Mission Statement, Team Section, Our Story Timeline, and Core Values. The Pricing page outlines various plans, a feature comparison table, and an FAQ section for clarity. Finally, the Contact page concludes the structure, offering essential contact information, a contact form, social media links, and a helpful FAQ to ensure smooth communication.
 
+The sitemap is organized hierarchically with the homepage as the central hub connecting to all other pages. Each page maintains consistent navigation and footer elements for seamless user experience. The structure follows a logical flow from introduction (homepage) to services, detailed content (library), company information (about), pricing, and finally contact.
 
 4. STORYBOARD
 ============
@@ -123,6 +111,8 @@ ZenFlow follows a premium design philosophy that emphasizes:
 - Brand consistency across all touchpoints
 - Accessibility and responsive design
 - Modern aesthetics that convey trust and professionalism
+
+The design aims to create a sense of calm and tranquility while maintaining a professional, trustworthy appearance that would appeal to both individual users and corporate clients.
 
 CONCLUSION
 ==========

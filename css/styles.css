@@ -4,9 +4,6 @@ Student: [Your Name]
 ID: [Your Student ID]
 Section: [Your Section]
 Date: October 5, 2025
-
-This stylesheet contains all the styling for the ZenFlow website,
-including responsive design, animations, and premium visual effects.
 */
 
 /* ===== CSS RESET & BASE STYLES ===== */
@@ -1544,7 +1541,7 @@ section {
     text-align: center;
 }
 
-.copyright {
+#copyright {
     color: rgba(255, 255, 255, 0.6);
     font-size: 0.9rem;
 }
