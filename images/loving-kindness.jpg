@@ -1,0 +1,35 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lovingKindnessGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F4A261;stop-opacity:0.8" />
+      <stop offset="50%" style="stop-color:#7FB069;stop-opacity:0.6" />
+      <stop offset="100%" style="stop-color:#2C5F5D;stop-opacity:0.4" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#lovingKindnessGradient)"/>
+  
+  <!-- Heart shape -->
+  <path d="M200 100C200 100 180 80 160 100C160 120 200 160 200 160C200 160 240 120 240 100C220 80 200 100 200 100Z" fill="#F4A261" opacity="0.9"/>
+  
+  <!-- Light rays -->
+  <path d="M200 100L200 60" stroke="#F4A261" stroke-width="3" opacity="0.7"/>
+  <path d="M200 100L160 80" stroke="#F4A261" stroke-width="2" opacity="0.6"/>
+  <path d="M200 100L240 80" stroke="#F4A261" stroke-width="2" opacity="0.6"/>
+  <path d="M200 100L180 120" stroke="#F4A261" stroke-width="2" opacity="0.5"/>
+  <path d="M200 100L220 120" stroke="#F4A261" stroke-width="2" opacity="0.5"/>
+  
+  <!-- Meditation figure -->
+  <circle cx="200" cy="200" r="25" fill="#FFFFFF" opacity="0.9"/>
+  <path d="M200 175C200 175 185 190 200 200C215 190 200 175 200 175Z" fill="#FFFFFF" opacity="0.7"/>
+  <path d="M175 225C175 225 170 250 175 270C180 250 175 225 175 225Z" fill="#FFFFFF" opacity="0.8"/>
+  <path d="M225 225C225 225 230 250 225 270C220 250 225 225 225 225Z" fill="#FFFFFF" opacity="0.8"/>
+  
+  <!-- Floating hearts -->
+  <path d="M100 80C100 80 95 75 90 80C90 85 100 95 100 95C100 95 110 85 110 80C105 75 100 80 100 80Z" fill="#F4A261" opacity="0.6"/>
+  <path d="M300 120C300 120 295 115 290 120C290 125 300 135 300 135C300 135 310 125 310 120C305 115 300 120 300 120Z" fill="#F4A261" opacity="0.5"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="250" width="400" height="50" fill="#7FB069" opacity="0.3"/>
+</svg>
+
+

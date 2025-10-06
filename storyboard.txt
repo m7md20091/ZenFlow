@@ -1,0 +1,279 @@
+ZENFLOW WEBSITE STORYBOARD & WIREFRAMES
+=======================================
+
+PAGE 1: HOMEPAGE (index.html)
+=============================
+
+HEADER SECTION:
+- Logo: "ZenFlow" (elegant serif font, deep teal color)
+- Navigation: Home | Services | Library | About | Pricing | Contact
+- Mobile: Hamburger menu icon (3 lines)
+
+HERO SECTION:
+- Background: Soft gradient (teal to sage green) with subtle meditation imagery
+- Headline: "Find Your Inner Peace" (large, bold, white text)
+- Subheading: "Transform your life through guided meditation and mindfulness practices"
+- CTA Button: "Start Your Journey" (rounded, white background, teal text)
+- Hero Image: Person meditating in nature (right side, 50% width)
+
+FEATURES SECTION:
+- Section Title: "What We Offer"
+- 3-column grid:
+  * Column 1: "Guided Meditations" (icon + description)
+  * Column 2: "Sleep Stories" (icon + description)  
+  * Column 3: "Breathing Exercises" (icon + description)
+
+TESTIMONIALS SECTION:
+- Background: Light gray
+- Section Title: "What Our Community Says"
+- 3 testimonial cards in a row:
+  * Card 1: "This changed my life completely" - Sarah M.
+  * Card 2: "Perfect for busy professionals" - Michael R.
+  * Card 3: "My sleep has never been better" - Emma L.
+
+FOOTER:
+- Logo and tagline
+- Quick links (Services, About, Contact)
+- Social media icons
+- Copyright notice
+
+PAGE 2: SERVICES (services.html)
+================================
+
+HEADER: Same as homepage
+
+PAGE HEADER:
+- Background: Teal gradient
+- Title: "Our Services"
+- Subtitle: "Comprehensive wellness solutions for your journey"
+
+SERVICES GRID (2x3 layout):
+- Service 1: "Guided Meditation Sessions"
+  * Icon: Meditation pose
+  * Description: "Personalized meditation experiences"
+  * Duration: "5-30 minutes"
+  
+- Service 2: "Sleep & Relaxation"
+  * Icon: Moon/stars
+  * Description: "Calming stories for better sleep"
+  * Duration: "10-45 minutes"
+  
+- Service 3: "Stress Management"
+  * Icon: Heart with waves
+  * Description: "Techniques to reduce daily stress"
+  * Duration: "3-20 minutes"
+  
+- Service 4: "Mindfulness Training"
+  * Icon: Brain with light
+  * Description: "Build awareness and presence"
+  * Duration: "5-25 minutes"
+  
+- Service 5: "Corporate Wellness"
+  * Icon: Office building
+  * Description: "Team wellness programs"
+  * Duration: "Custom"
+  
+- Service 6: "Personal Coaching"
+  * Icon: Person with checkmark
+  * Description: "One-on-one guidance"
+  * Duration: "30-60 minutes"
+
+BENEFITS SECTION:
+- Title: "Why Choose ZenFlow?"
+- 4 benefits in 2x2 grid:
+  * "Science-Based Methods"
+  * "Expert Instructors"
+  * "Flexible Scheduling"
+  * "Proven Results"
+
+FOOTER: Same as homepage
+
+PAGE 3: MEDITATION LIBRARY (library.html)
+========================================
+
+HEADER: Same as homepage
+
+PAGE HEADER:
+- Title: "Meditation Library"
+- Subtitle: "Explore our collection of guided practices"
+
+FILTER SECTION:
+- Category buttons: All | Beginner | Intermediate | Advanced | Sleep | Stress Relief
+- Search bar with magnifying glass icon
+
+MEDITATION CARDS GRID (3x2 layout):
+- Card 1: "Morning Meditation"
+  * Image: Sunrise over mountains
+  * Title: "Morning Meditation"
+  * Duration: "10 minutes"
+  * Level: "Beginner"
+  * Play button overlay
+  
+- Card 2: "Body Scan Practice"
+  * Image: Person lying down peacefully
+  * Title: "Body Scan Practice"
+  * Duration: "20 minutes"
+  * Level: "Intermediate"
+  * Play button overlay
+  
+- Card 3: "Loving Kindness"
+  * Image: Heart with light rays
+  * Title: "Loving Kindness"
+  * Duration: "15 minutes"
+  * Level: "Beginner"
+  * Play button overlay
+  
+- Card 4: "Sleep Story: Forest Walk"
+  * Image: Moonlit forest path
+  * Title: "Sleep Story: Forest Walk"
+  * Duration: "25 minutes"
+  * Level: "All Levels"
+  * Play button overlay
+  
+- Card 5: "Breathing Exercise"
+  * Image: Person breathing deeply
+  * Title: "4-7-8 Breathing"
+  * Duration: "5 minutes"
+  * Level: "Beginner"
+  * Play button overlay
+  
+- Card 6: "Walking Meditation"
+  * Image: Person walking in nature
+  * Title: "Walking Meditation"
+  * Duration: "12 minutes"
+  * Level: "Intermediate"
+  * Play button overlay
+
+FOOTER: Same as homepage
+
+PAGE 4: ABOUT US (about.html)
+=============================
+
+HEADER: Same as homepage
+
+PAGE HEADER:
+- Title: "About ZenFlow"
+- Subtitle: "Your journey to wellness starts here"
+
+MISSION SECTION:
+- Large quote: "We believe everyone deserves access to peace, clarity, and inner strength"
+- Mission statement paragraph
+- Background: Soft gradient with meditation imagery
+
+TEAM SECTION:
+- Title: "Meet Our Team"
+- 3 team members in a row:
+  * Founder: "Dr. Sarah Chen" - Founder & Lead Instructor
+  * Instructor: "Marcus Johnson" - Meditation Specialist
+  * Expert: "Dr. Lisa Park" - Wellness Expert
+
+OUR STORY TIMELINE:
+- Title: "Our Journey"
+- Timeline with 4 milestones:
+  * 2020: "Founded with a vision"
+  * 2021: "First 1000 users"
+  * 2022: "Corporate partnerships"
+  * 2023: "Global community"
+
+FOOTER: Same as homepage
+
+PAGE 5: PRICING (pricing.html)
+=============================
+
+HEADER: Same as homepage
+
+PAGE HEADER:
+- Title: "Choose Your Plan"
+- Subtitle: "Flexible options for every journey"
+
+PRICING CARDS (3 cards in a row):
+- Card 1: "Free"
+  * Price: "$0/month"
+  * Features:
+    - 5 guided meditations
+    - Basic sleep stories
+    - Community access
+  * CTA: "Get Started"
+  
+- Card 2: "Premium" (highlighted)
+  * Price: "$19.99/month"
+  * Features:
+    - Unlimited meditations
+    - All sleep stories
+    - Personal coaching
+    - Progress tracking
+  * CTA: "Start Premium"
+  
+- Card 3: "Corporate"
+  * Price: "Custom"
+  * Features:
+    - Team wellness programs
+    - Analytics dashboard
+    - Dedicated support
+    - Custom content
+  * CTA: "Contact Sales"
+
+FEATURES COMPARISON:
+- Table comparing all features across plans
+- Checkmarks and X marks for feature availability
+
+FOOTER: Same as homepage
+
+PAGE 6: CONTACT (contact.html)
+=============================
+
+HEADER: Same as homepage
+
+PAGE HEADER:
+- Title: "Get In Touch"
+- Subtitle: "We're here to support your wellness journey"
+
+CONTACT INFORMATION SECTION:
+- 3 contact methods in cards:
+  * Email: "hello@zenflow.com"
+  * Phone: "+1 (555) 123-4567"
+  * Address: "123 Wellness St, Mindful City, MC 12345"
+
+CONTACT FORM:
+- Form fields:
+  * Name (text input)
+  * Email (email input)
+  * Subject (dropdown: General, Support, Partnership, Other)
+  * Message (textarea)
+  * Submit button: "Send Message"
+
+SOCIAL MEDIA SECTION:
+- Title: "Connect With Us"
+- Social media icons: Facebook, Instagram, Twitter, LinkedIn
+
+FOOTER: Same as homepage
+
+DESIGN SPECIFICATIONS:
+=====================
+- Color Palette:
+  * Primary: Deep Teal (#2C5F5D)
+  * Secondary: Sage Green (#7FB069)
+  * Accent: Warm Gold (#F4A261)
+  * Neutral: Light Gray (#F8F9FA)
+  * Text: Dark Gray (#2D3436)
+
+- Typography:
+  * Headings: "Playfair Display" (serif)
+  * Body: "Inter" (sans-serif)
+  * Accent: "Montserrat" (sans-serif)
+
+- Spacing:
+  * Section padding: 80px
+  * Card padding: 30px
+  * Button padding: 15px 30px
+
+- Responsive Breakpoints:
+  * Mobile: 320px - 768px
+  * Tablet: 768px - 1024px
+  * Desktop: 1024px+
+
+- Animation:
+  * Subtle hover effects on buttons and cards
+  * Smooth transitions (0.3s ease)
+  * Fade-in animations on scroll
+

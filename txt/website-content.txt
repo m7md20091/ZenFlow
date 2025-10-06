@@ -1,0 +1,173 @@
+ZENFLOW WEBSITE CONTENT
+=======================
+
+HOMEPAGE CONTENT
+================
+
+Hero Section:
+Headline: "Find Your Inner Peace"
+Subheading: "Transform your life through guided meditation and mindfulness practices designed for modern living."
+
+Features Section:
+Title: "What We Offer"
+
+Feature 1 - Guided Meditations:
+Title: "Guided Meditations"
+Description: "Expert-led meditation sessions for all levels, from beginner-friendly introductions to advanced practices that deepen your mindfulness journey."
+
+Feature 2 - Sleep Stories:
+Title: "Sleep Stories"
+Description: "Calming narratives and gentle guidance to help you drift into peaceful sleep and wake up refreshed and energized."
+
+Feature 3 - Breathing Exercises:
+Title: "Breathing Exercises"
+Description: "Simple yet powerful breathing techniques that you can use anywhere to reduce stress and find instant calm."
+
+Testimonials:
+Testimonial 1: "ZenFlow has completely transformed my daily routine. The guided meditations are perfect for my busy schedule, and I've never slept better." - Sarah M., Marketing Director
+
+Testimonial 2: "As a busy executive, I needed something that could fit into my hectic life. ZenFlow's short sessions are perfect for quick stress relief during the day." - Michael R., CEO
+
+Testimonial 3: "The sleep stories are magical. I've struggled with insomnia for years, and these have been a game-changer for my rest." - Emma L., Teacher
+
+SERVICES PAGE CONTENT
+=====================
+
+Page Header:
+Title: "Our Services"
+Subtitle: "Comprehensive wellness solutions tailored to your unique journey"
+
+Service 1 - Guided Meditation Sessions:
+Title: "Guided Meditation Sessions"
+Description: "Personalized meditation experiences led by certified instructors, ranging from 5-minute quick sessions to 30-minute deep practices."
+Duration: "5-30 minutes"
+Benefits: "Reduces stress, improves focus, enhances emotional well-being"
+
+Service 2 - Sleep & Relaxation:
+Title: "Sleep & Relaxation"
+Description: "Calming stories, gentle music, and relaxation techniques designed to help you fall asleep faster and sleep more deeply."
+Duration: "10-45 minutes"
+Benefits: "Better sleep quality, reduced insomnia, improved rest"
+
+Service 3 - Stress Management:
+Title: "Stress Management"
+Description: "Evidence-based techniques to help you manage daily stress, including breathing exercises and mindfulness practices."
+Duration: "3-20 minutes"
+Benefits: "Lower stress levels, improved resilience, better coping skills"
+
+Service 4 - Mindfulness Training:
+Title: "Mindfulness Training"
+Description: "Structured programs to build awareness, presence, and mindful living skills for lasting positive change."
+Duration: "5-25 minutes"
+Benefits: "Increased awareness, better decision-making, enhanced life satisfaction"
+
+Service 5 - Corporate Wellness:
+Title: "Corporate Wellness"
+Description: "Tailored wellness programs for teams and organizations, including group sessions and workplace mindfulness training."
+Duration: "Custom"
+Benefits: "Improved team dynamics, reduced workplace stress, higher productivity"
+
+Service 6 - Personal Coaching:
+Title: "Personal Coaching"
+Description: "One-on-one guidance with certified wellness coaches for personalized meditation and mindfulness development."
+Duration: "30-60 minutes"
+Benefits: "Personalized approach, faster progress, individual support"
+
+ABOUT US PAGE CONTENT
+====================
+
+Mission Statement:
+"At ZenFlow, we believe everyone deserves access to peace, clarity, and inner strength. Our mission is to make high-quality meditation and mindfulness practices accessible to people from all walks of life, helping them build resilience, reduce stress, and live more fulfilling lives."
+
+Team Section:
+Dr. Sarah Chen - Founder & Lead Instructor
+"With over 15 years of experience in mindfulness and meditation, Dr. Chen founded ZenFlow to bridge the gap between ancient wisdom and modern life. She holds a Ph.D. in Psychology and is a certified meditation instructor."
+
+Marcus Johnson - Meditation Specialist
+"Marcus brings 10 years of experience in guided meditation and has helped thousands of people develop their mindfulness practice. He specializes in stress reduction and anxiety management."
+
+Dr. Lisa Park - Wellness Expert
+"Dr. Park is a licensed therapist and wellness expert who integrates traditional therapy with mindfulness practices. She focuses on helping people build sustainable wellness habits."
+
+Our Story Timeline:
+2020: "Founded with a vision to make meditation accessible to everyone"
+2021: "Reached our first 1000 users and received positive feedback"
+2022: "Launched corporate wellness programs and partnered with major companies"
+2023: "Built a global community of over 50,000 users across 30 countries"
+
+PRICING PAGE CONTENT
+===================
+
+Page Header:
+Title: "Choose Your Plan"
+Subtitle: "Flexible options designed to support your wellness journey"
+
+Free Plan:
+Price: "$0/month"
+Features:
+- 5 guided meditations
+- 3 sleep stories
+- Basic breathing exercises
+- Community access
+- Email support
+
+Premium Plan:
+Price: "$19.99/month"
+Features:
+- Unlimited meditations
+- Complete sleep story library
+- Advanced breathing techniques
+- Personal coaching sessions
+- Progress tracking
+- Priority support
+- Offline downloads
+
+Corporate Plan:
+Price: "Custom pricing"
+Features:
+- Team wellness programs
+- Analytics dashboard
+- Dedicated account manager
+- Custom content creation
+- Employee wellness reports
+- Integration support
+
+CONTACT PAGE CONTENT
+===================
+
+Page Header:
+Title: "Get In Touch"
+Subtitle: "We're here to support your wellness journey every step of the way"
+
+Contact Information:
+Email: "hello@zenflow.com"
+Phone: "+1 (555) 123-4567"
+Address: "123 Wellness Street, Mindful City, MC 12345"
+
+Contact Form Fields:
+- Name (required)
+- Email (required)
+- Subject (dropdown: General Inquiry, Support, Partnership, Other)
+- Message (required)
+
+Social Media:
+"Connect with us on social media for daily wellness tips, community updates, and special offers."
+
+FOOTER CONTENT
+==============
+
+Quick Links:
+- About Us
+- Services
+- Meditation Library
+- Pricing
+- Contact
+- Privacy Policy
+- Terms of Service
+
+Newsletter Signup:
+"Subscribe to our newsletter for weekly wellness tips and exclusive content."
+
+Copyright:
+"© 2025 ZenFlow. All rights reserved. Transforming lives through mindfulness."
+

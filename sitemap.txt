@@ -1,0 +1,99 @@
+ZENFLOW WEBSITE SITEMAP
+========================
+
+Homepage (index.html)
+├── Navigation Menu
+│   ├── Home
+│   ├── Services
+│   ├── Meditation Library
+│   ├── About Us
+│   ├── Pricing
+│   └── Contact
+│
+├── Hero Section
+│   ├── Main Headline
+│   ├── Subheading
+│   └── CTA Button
+│
+├── Features Section
+│   ├── Guided Meditations
+│   ├── Sleep Stories
+│   └── Breathing Exercises
+│
+├── Testimonials
+└── Footer
+
+Services Page (services.html)
+├── Navigation Menu
+├── Page Header
+├── Services Grid
+│   ├── Guided Meditation Sessions
+│   ├── Sleep & Relaxation
+│   ├── Stress Management
+│   ├── Mindfulness Training
+│   ├── Corporate Wellness
+│   └── Personal Coaching
+├── Benefits Section
+└── Footer
+
+Meditation Library (library.html)
+├── Navigation Menu
+├── Page Header
+├── Category Filters
+│   ├── Beginner
+│   ├── Intermediate
+│   ├── Advanced
+│   ├── Sleep
+│   └── Stress Relief
+├── Meditation Cards Grid
+│   ├── Card 1: Morning Meditation
+│   ├── Card 2: Body Scan
+│   ├── Card 3: Loving Kindness
+│   ├── Card 4: Sleep Story
+│   ├── Card 5: Breathing Exercise
+│   └── Card 6: Walking Meditation
+└── Footer
+
+About Us (about.html)
+├── Navigation Menu
+├── Page Header
+├── Mission Statement
+├── Team Section
+│   ├── Founder Bio
+│   ├── Meditation Instructors
+│   └── Wellness Experts
+├── Our Story Timeline
+└── Footer
+
+Pricing (pricing.html)
+├── Navigation Menu
+├── Page Header
+├── Pricing Plans
+│   ├── Free Plan
+│   ├── Premium Plan
+│   └── Corporate Plan
+├── Features Comparison
+└── Footer
+
+Contact (contact.html)
+├── Navigation Menu
+├── Page Header
+├── Contact Information
+│   ├── Email
+│   ├── Phone
+│   └── Address
+├── Contact Form
+│   ├── Name Field
+│   ├── Email Field
+│   ├── Subject Field
+│   └── Message Field
+├── Social Media Links
+└── Footer
+
+TECHNICAL STRUCTURE:
+- All pages share common navigation and footer
+- Responsive design for mobile, tablet, desktop
+- External CSS for consistent styling
+- Minimal JavaScript for mobile menu toggle
+- SEO optimized with proper meta tags
+
