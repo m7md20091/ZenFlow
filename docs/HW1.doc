@@ -72,13 +72,41 @@ The sitemap is structured hierarchically, beginning with the Homepage that intro
 4. STORYBOARD
 ============
 
-Detailed wireframes have been created for all 6 pages, including:
+Detailed storyboard  design have been created for all 6 pages, including:
 - Header with navigation and logo
 - Main content sections with proper visual hierarchy
 - Footer with links and contact information
 - Responsive design considerations for mobile, tablet, and desktop
 - Color scheme and typography specifications
 - Interactive elements and call-to-action buttons
+
+
+Connected Storyboard:
+https://www.figma.com/design/CD9B0W7xrjLmuIgOnrVn8Z/ZenFlow?node-id=0-1&t=vvZ8CwjBBfngYDPk-1
+
+
+
+
+(on Figma, you have to click on the "prototype" button on the right panel, to see the storyboard links)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 TECHNICAL SPECIFICATIONS
 ========================
@@ -107,8 +135,7 @@ JavaScript Requirements:
 FOLDER STRUCTURE
 ================
 
-- html/ - Contains all HTML files
-- css/ - Contains stylesheet files
+-- css/ - Contains stylesheet files
 - images/ - Contains all website images
 - txt/ - Contains text files and documentation
 - docs/ - Contains Word documents and project files
