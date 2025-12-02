@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- 
+    ZenFlow Signup Page
+    Student: Mohammad Hamed Alahrbi
+    ID: 2240738
+    Section: CS1
+    Date: October 6, 2025
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Create your ZenFlow account to access guided meditations, sleep stories, and personalized wellness programs.">
+    <meta name="keywords" content="ZenFlow signup, create account, meditation app signup, wellness membership">
+    <title>Sign Up - ZenFlow</title>
+    
+    <!-- External CSS Stylesheet -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Section with Navigation -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <!-- Logo -->
+                <div class="nav-logo">
+                    <h1 class="logo">ZenFlow</h1>
+                </div>
+                
+                <!-- Desktop Navigation Menu -->
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="services.html" class="nav-link">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="library.html" class="nav-link">Library</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="about.html" class="nav-link">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="pricing.html" class="nav-link">Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="booking.html" class="nav-link">Booking</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="profile.html" class="nav-link">Profile</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="login.html" class="nav-link">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="signup.html" class="nav-link active">Sign Up</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="contact.html" class="nav-link">Contact</a>
+                    </li>
+                </ul>
+                
+                <!-- Mobile Menu Toggle -->
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Page Header -->
+        <section class="page-header">
+            <div class="container">
+                <h1 class="page-title">Create Your ZenFlow Account</h1>
+                <p class="page-subtitle">Start your 7-day free trial and unlock premium mindfulness content</p>
+            </div>
+        </section>
+
+        <!-- Signup Section -->
+        <section class="auth-section">
+            <div class="container">
+                <div class="auth-grid">
+                    <!-- Signup Form -->
+                    <div class="auth-card">
+                        <h2 class="auth-title">Join ZenFlow</h2>
+                        <p class="auth-subtitle">Build your personalized mindfulness routine in minutes.</p>
+                        <form class="signup-form" action="#" method="POST">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="full-name" class="form-label">Full Name *</label>
+                                    <input type="text" id="full-name" name="full-name" class="form-input" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email" class="form-label">Email Address *</label>
+                                    <input type="email" id="email" name="email" class="form-input" required>
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="password" class="form-label">Password *</label>
+                                    <input type="password" id="password" name="password" class="form-input" required>
+                                    <div class="form-helper">Use at least 8 characters with a number.</div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="confirm-password" class="form-label">Confirm Password *</label>
+                                    <input type="password" id="confirm-password" name="confirm-password" class="form-input" required>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="goal" class="form-label">Primary Goal</label>
+                                <select id="goal" name="goal" class="form-select">
+                                    <option value="">Select your focus</option>
+                                    <option value="stress">Stress Relief</option>
+                                    <option value="sleep">Better Sleep</option>
+                                    <option value="focus">Improved Focus</option>
+                                    <option value="anxiety">Manage Anxiety</option>
+                                    <option value="mindfulness">Mindfulness Habit</option>
+                                </select>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="preference" class="form-label">Preferred Session Length</label>
+                                    <select id="preference" name="preference" class="form-select">
+                                        <option value="">Choose an option</option>
+                                        <option value="5">5 minutes</option>
+                                        <option value="10">10 minutes</option>
+                                        <option value="15">15 minutes</option>
+                                        <option value="20">20 minutes</option>
+                                        <option value="30">30+ minutes</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="timezone" class="form-label">Time Zone</label>
+                                    <input type="text" id="timezone" name="timezone" class="form-input" placeholder="e.g., GMT+3">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="notifications" class="form-label">Notifications</label>
+                                <div class="form-helper">Stay on track with daily reminders and weekly progress emails.</div>
+                                <select id="notifications" name="notifications" class="form-select">
+                                    <option value="">Select frequency</option>
+                                    <option value="daily">Daily reminders</option>
+                                    <option value="weekly">Weekly summary</option>
+                                    <option value="none">No notifications</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <button type="submit" class="form-submit">Create Account</button>
+                            </div>
+
+                            <div class="auth-switch">
+                                Already have an account? <a href="login.html">Log in</a>
+                            </div>
+                        </form>
+                    </div>
+
+                    <!-- Benefits & Highlights -->
+                    <div class="auth-card">
+                        <h3 class="auth-title">Why Join ZenFlow?</h3>
+                        <p class="auth-subtitle">Premium wellness tools crafted by certified instructors.</p>
+                        <ul class="auth-benefits">
+                            <li class="auth-benefit">
+                                <img src="images/check-icon.svg" alt="Included">
+                                Unlimited guided meditations and sleep stories
+                            </li>
+                            <li class="auth-benefit">
+                                <img src="images/check-icon.svg" alt="Included">
+                                Personalized weekly plans based on your goals
+                            </li>
+                            <li class="auth-benefit">
+                                <img src="images/check-icon.svg" alt="Included">
+                                Track progress with mindful streaks and badges
+                            </li>
+                            <li class="auth-benefit">
+                                <img src="images/check-icon.svg" alt="Included">
+                                Access to live community sessions and Q&A
+                            </li>
+                            <li class="auth-benefit">
+                                <img src="images/check-icon.svg" alt="Included">
+                                Cancel anytime during the trial—no commitment
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <!-- Footer Logo and Description -->
+                <div class="footer-section">
+                    <h3 class="footer-logo">ZenFlow</h3>
+                    <p class="footer-description">Transforming lives through mindfulness and meditation practices.</p>
+                </div>
+                
+                <!-- Quick Links -->
+                <div class="footer-section">
+                    <h4 class="footer-title">Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="library.html">Meditation Library</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+                        <li><a href="booking.html">Booking</a></li>
+                        <li><a href="profile.html">Profile</a></li>
+                        <li><a href="login.html">Login</a></li>
+                        <li><a href="signup.html">Sign Up</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Newsletter Signup -->
+                <div class="footer-section">
+                    <h4 class="footer-title">Stay Connected</h4>
+                    <p class="newsletter-text">Subscribe for wellness tips and updates.</p>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Your email" class="newsletter-input">
+                        <button type="submit" class="newsletter-button">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <p id="copyright">&copy; 2025 ZenFlow. All rights reserved. Transforming lives through mindfulness.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript for Mobile Menu -->
+    <script>
+        // Mobile menu toggle functionality
+        const hamburger = document.querySelector('.hamburger');
+        const navMenu = document.querySelector('.nav-menu');
+
+        hamburger.addEventListener('click', function() {
+            hamburger.classList.toggle('active');
+            navMenu.classList.toggle('active');
+        });
+
+        // Close mobile menu when clicking on a link
+        document.querySelectorAll('.nav-link').forEach(n => n.addEventListener('click', () => {
+            hamburger.classList.remove('active');
+            navMenu.classList.remove('active');
+        }));
+    </script>
+</body>
+</html>

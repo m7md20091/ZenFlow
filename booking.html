@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- 
+    ZenFlow Booking Page
+    Student: Mohammad Hamed Alahrbi
+    ID: 2240738
+    Section: CS1
+    Date: October 6, 2025
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Book a ZenFlow session with certified instructors for meditation, breathwork, or wellness coaching.">
+    <meta name="keywords" content="ZenFlow booking, meditation booking, wellness appointment, mindfulness session">
+    <title>Book a Session - ZenFlow</title>
+    
+    <!-- External CSS Stylesheet -->
+    <link rel="stylesheet" href="css/styles.css">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header Section with Navigation -->
+    <header class="header">
+        <nav class="navbar">
+            <div class="nav-container">
+                <!-- Logo -->
+                <div class="nav-logo">
+                    <h1 class="logo">ZenFlow</h1>
+                </div>
+                
+                <!-- Desktop Navigation Menu -->
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="services.html" class="nav-link">Services</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="library.html" class="nav-link">Library</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="about.html" class="nav-link">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="pricing.html" class="nav-link">Pricing</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="booking.html" class="nav-link active">Booking</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="profile.html" class="nav-link">Profile</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="login.html" class="nav-link">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="signup.html" class="nav-link">Sign Up</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="contact.html" class="nav-link">Contact</a>
+                    </li>
+                </ul>
+                
+                <!-- Mobile Menu Toggle -->
+                <div class="hamburger">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+        <!-- Page Header -->
+        <section class="page-header">
+            <div class="container">
+                <h1 class="page-title">Book a Session</h1>
+                <p class="page-subtitle">Schedule a guided practice or coaching session that fits your schedule.</p>
+            </div>
+        </section>
+
+        <!-- Booking Section -->
+        <section class="booking-section">
+            <div class="container">
+                <div class="booking-grid">
+                    <!-- Booking Form -->
+                    <div class="booking-card">
+                        <h2 class="auth-title">Schedule Your Time</h2>
+                        <p class="auth-subtitle">Choose your focus, time, and preferred instructor.</p>
+                        <form class="booking-form" action="#" method="POST">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="session-type" class="form-label">Session Type *</label>
+                                    <select id="session-type" name="session-type" class="form-select" required>
+                                        <option value="">Select a session</option>
+                                        <option value="guided">Guided Meditation</option>
+                                        <option value="sleep">Sleep Coaching</option>
+                                        <option value="breathwork">Breathwork</option>
+                                        <option value="coaching">1:1 Wellness Coaching</option>
+                                        <option value="stress">Stress Reset Session</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="coach" class="form-label">Preferred Coach</label>
+                                    <select id="coach" name="coach" class="form-select">
+                                        <option value="">Any instructor</option>
+                                        <option value="sarah">Sarah Chen</option>
+                                        <option value="marcus">Marcus Johnson</option>
+                                        <option value="lisa">Lisa Park</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="date" class="form-label">Date *</label>
+                                    <input type="date" id="date" name="date" class="form-input" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="time" class="form-label">Time *</label>
+                                    <input type="time" id="time" name="time" class="form-input" required>
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="timezone" class="form-label">Time Zone</label>
+                                    <input type="text" id="timezone" name="timezone" class="form-input" placeholder="e.g., GMT+3">
+                                </div>
+                                <div class="form-group">
+                                    <label for="duration" class="form-label">Duration</label>
+                                    <select id="duration" name="duration" class="form-select">
+                                        <option value="">Choose duration</option>
+                                        <option value="15">15 minutes</option>
+                                        <option value="30">30 minutes</option>
+                                        <option value="45">45 minutes</option>
+                                        <option value="60">60 minutes</option>
+                                    </select>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="notes" class="form-label">Session Focus</label>
+                                <textarea id="notes" name="notes" rows="4" class="form-textarea" placeholder="Tell us what you want to work on (stress relief, sleep, focus, etc.)"></textarea>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label for="name" class="form-label">Full Name *</label>
+                                    <input type="text" id="name" name="name" class="form-input" required>
+                                </div>
+                                <div class="form-group">
+                                    <label for="email" class="form-label">Email Address *</label>
+                                    <input type="email" id="email" name="email" class="form-input" required>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <button type="submit" class="form-submit">Confirm Booking</button>
+                            </div>
+                        </form>
+                    </div>
+
+                    <!-- Summary -->
+                    <div class="summary-card">
+                        <h3 class="service-title">Session Summary</h3>
+                        <ul class="summary-list">
+                            <li>Includes a live instructor via video</li>
+                            <li>Personalized guidance for your goal</li>
+                            <li>Recording available for 48 hours</li>
+                            <li>Reschedule up to 12 hours in advance</li>
+                        </ul>
+                        <p class="form-helper">Need help choosing a session? <a href="contact.html" class="contact-link">Contact us</a>.</p>
+                    </div>
+                </div>
+
+                <!-- Recommended Coaches -->
+                <div class="coach-grid">
+                    <div class="coach-card">
+                        <h4 class="coach-name">Sarah Chen</h4>
+                        <p class="coach-meta">Calm sleep stories, restorative breathwork</p>
+                    </div>
+                    <div class="coach-card">
+                        <h4 class="coach-name">Marcus Johnson</h4>
+                        <p class="coach-meta">Stress reset, focus meditations, productivity</p>
+                    </div>
+                    <div class="coach-card">
+                        <h4 class="coach-name">Lisa Park</h4>
+                        <p class="coach-meta">Mindful therapy-inspired sessions, resilience</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <!-- Footer Logo and Description -->
+                <div class="footer-section">
+                    <h3 class="footer-logo">ZenFlow</h3>
+                    <p class="footer-description">Transforming lives through mindfulness and meditation practices.</p>
+                </div>
+                
+                <!-- Quick Links -->
+                <div class="footer-section">
+                    <h4 class="footer-title">Quick Links</h4>
+                    <ul class="footer-links">
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="library.html">Meditation Library</a></li>
+                        <li><a href="pricing.html">Pricing</a></li>
+                        <li><a href="booking.html">Booking</a></li>
+                        <li><a href="profile.html">Profile</a></li>
+                        <li><a href="login.html">Login</a></li>
+                        <li><a href="signup.html">Sign Up</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                
+                <!-- Newsletter Signup -->
+                <div class="footer-section">
+                    <h4 class="footer-title">Stay Connected</h4>
+                    <p class="newsletter-text">Subscribe for wellness tips and updates.</p>
+                    <form class="newsletter-form">
+                        <input type="email" placeholder="Your email" class="newsletter-input">
+                        <button type="submit" class="newsletter-button">Subscribe</button>
+                    </form>
+                </div>
+            </div>
+            
+            <!-- Footer Bottom -->
+            <div class="footer-bottom">
+                <p id="copyright">&copy; 2025 ZenFlow. All rights reserved. Transforming lives through mindfulness.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript for Mobile Menu -->
+    <script>
+        // Mobile menu toggle functionality
+        const hamburger = document.querySelector('.hamburger');
+        const navMenu = document.querySelector('.nav-menu');
+
+        hamburger.addEventListener('click', function() {
+            hamburger.classList.toggle('active');
+            navMenu.classList.toggle('active');
+        });
+
+        // Close mobile menu when clicking on a link
+        document.querySelectorAll('.nav-link').forEach(n => n.addEventListener('click', () => {
+            hamburger.classList.remove('active');
+            navMenu.classList.remove('active');
+        }));
+    </script>
+</body>
+</html>
